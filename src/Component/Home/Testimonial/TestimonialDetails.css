@@ -1,0 +1,21 @@
+
+.tes{
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+.review{
+    border-radius:5px;
+    padding: 20px;
+    margin-left: 10px;
+    background-color: azure;
+    margin-top:100px;
+    text-align: center;
+}
+.services-container{
+    height:600px;
+}
+.customer{
+    position: relative;
+    top:30px;
+}

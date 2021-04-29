@@ -1,0 +1,19 @@
+.service{
+   position: relative;
+   top: 40px;
+}
+.bookingBtn{
+    margin-bottom: 20px;
+}
+.services{
+    border-radius:5px;
+    padding: 20px;
+    margin-left: 10px;
+    background-color:lightgoldenrodyellow;
+    margin-top:100px;
+    text-align: center;
+}
+.serviceDetail{
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+}
